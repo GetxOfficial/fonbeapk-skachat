@@ -3,7 +3,7 @@
 <table border="1" cellpadding="1" cellspacing="1" style="width:500px">
 	<tbody>
 		<tr>
-			<td>Рабочие APK приложения для 1xbet</td>
+			<td>Рабочие APK приложения для фонбет</td>
 			<td>Промокоды</td>
 		</tr>
 		<tr>
